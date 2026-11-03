@@ -1,0 +1,6 @@
+flask
+pypdf
+sentence-transformers
+chromadb
+google-genai
+python-dotenv 
